@@ -1,0 +1,35 @@
+header {
+  background-color: aqua;
+}
+
+.btn-1 {
+  @extend %btn-1;
+}
+
+.btn-2 {
+  @extend %btn-2;
+}
+
+// .btn-2::after {
+//   background-image: url(../../images/svg/icon-arrow.svg);
+// }
+
+.btn-3 {
+  @extend %btn-3;
+}
+
+.btn-4 {
+  @extend %btn-4;
+}
+
+.btn-5 {
+  @extend %btn-5;
+}
+
+.btn-6 {
+  @extend %btn-6;
+}
+
+.btn-7 {
+  @extend %btn-7;
+}
